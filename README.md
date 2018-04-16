@@ -1,0 +1,2 @@
+# fromtu
+Statis site
