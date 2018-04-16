@@ -1,2 +1,2 @@
 # fromtu
-Statis site
+Static site
